@@ -1,8 +1,8 @@
 # Fake_News_Kaggle
 
-   Repository contains the source code for detecting the Fake News Using the LSTM RNN
+   ##### Repository contains the source code for detecting the Fake News Using the LSTM RNN
 
-##STEPS:
+**STEPS**:
 
 1.Importing the necessary libraries.
 
